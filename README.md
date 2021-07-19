@@ -1,6 +1,6 @@
 # SortingAlgoVisualizer
 
-LIVE DEMO LINK => https://rishabhgoyal9.github.io/Sorting-Algo-Visualizer/
+LIVE DEMO LINK =>  https://shivangijain03.github.io/SORTING-ALGO-VISUALIZER/
 
 It's a web app built to visualise a bunch of different sorting algorithms like :
 
